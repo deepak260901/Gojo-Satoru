@@ -35,7 +35,7 @@ Add FFmpeg to PATH environment variable
 </details>
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/deepak260901/CheemsBot-MD3/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/deepak260901/Gojo-Satoru)
 
 
 <!-- Start via Heroku -->
