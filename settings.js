@@ -19,7 +19,7 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['918130784851']
+global.owner = ['918130784851', '919987052500' ]
 global.premium = ['918130784851','919987052500' ]
 global.ownernomer = '918130784851','919987052500'
 global.ownername = '🐦Star Boy @ayush'
