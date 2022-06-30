@@ -19,29 +19,29 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['918130784851', '919987052500' ]
-global.premium = ['918130784851','919987052500' ]
-global.ownernomer = '918130784851','919987052500'
-global.ownername = '🐦Star Boy @ayush'
+global.owner = ['919015286428','13433016255]
+global.premium = ['919015286428','13433016255']
+global.ownernomer = '919015286428','13433016255'
+global.ownername = '🐦Deepak🥰'
 global.botname = 'Gojo-Satoru'
-global.footer = '©ayushNwInc.'
-global.ig = 'https://github.com/DEVILL-MESCOTT'
-global.region = 'India, north India, delhi'
-global.sc = 'https://github.com/DEVILL-MASCOT/Gojo-Satoru'
-global.myweb = 'https://wa.me//+918130784851'
-global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy @ayush'
+global.footer = '©GAPPU BOT INC.'
+global.ig = 'https://github.com/nexusNw'
+global.region = 'India, South India, Kerala'
+global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
+global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
+global.packname = 'Gappu 🔥'
+global.author = '🐦Deepak✨🌸'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
+    admin: 'This Feature Is Only For 🌚 Admin!',
+    botAdmin: 'GapouBot Must Be Admin 😁 First!',
+    owner: 'This Feature Is Only 😎 For Owner!',
+    group: 'Feature Used Only For😜 Groups!',
+    private: 'Features Used Only For Private 😂 Chat!',
+    bot: 'This Feature Is Only 😋 For Bot',
     wait: 'Wait A minute...',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
